@@ -1,0 +1,5 @@
+GOOGLE_API_KEY=your_api_key_here
+
+# Optional: only change these if Google renames/retires a model.
+# GEMINI_PRO_MODEL=gemini-pro-latest
+# GEMINI_FLASH_MODEL=gemini-flash-latest
